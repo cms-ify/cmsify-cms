@@ -1,0 +1,15 @@
+{
+  "name": "cmsify-cms",
+  "version": "0.0.1",
+  "description": "cmsify-cms generates the routes for the admin interface and implements cmsify-api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Donnelly",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
